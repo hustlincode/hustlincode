@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hustlincode
 - 👀 I’m interested in wed developing 
-- 🌱 I’m currently learning and im a 1st year college 
+- 🌱 I’m currently learning and im a final year college 
 - 💞️ I’m looking to collaborate on learning and share knowledge
 - 📫 How to reach me reach me in my facebook account my name is FidelJon Magat
 
