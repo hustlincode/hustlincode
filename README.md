@@ -1,6 +1,6 @@
-# Hi, I'm Fidel 👋
+# Hi, I'm Fidel Jon Magat👋
 
-### Full-Stack Software Developer | React · Next.js · PHP · C# · AWS
+### Full-Stack Software Developer | React · Next.js · PHP · Node.js
 
 I build and maintain web applications and business systems, working across frontend, backend, databases, and cloud services.
 
@@ -19,14 +19,20 @@ A hotel pre-check-in system connecting an on-premises application with cloud ser
 ### [Banquet & Sales Management System](https://fideljon.vercel.app/project/salesportal)
 A business application for banquet operations, contracts, sales reporting, and accounting workflows, built with PHP, MySQL, JavaScript, and Bootstrap.
 
-## Technologies
+## Technical Skills
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS  
-**Backend:** Node.js, Express, PHP, C#/.NET, REST APIs  
-**Databases:** MySQL, PostgreSQL, DynamoDB  
-**Cloud & Tools:** AWS, Git, GitHub, Postman, Azure DevOps
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, jQuery, AJAX, Bootstrap, Tailwind CSS
 
-## More
+- **Backend:** PHP, Node.js, Next.js Route Handlers, REST APIs, C# / .NET
 
-- 🌐 [Portfolio](https://fideljon.vercel.app)
-- 💻 [GitHub repositories](https://github.com/hustlincode?tab=repositories)
+- **Data:** MySQL, PostgreSQL, Supabase, Prisma, DynamoDB
+
+- **Cloud & tools:** AWS, Git, GitHub, GitHub Actions, Azure DevOps, Postman
+
+## AI-Assisted Development
+
+I use **Codex, Claude Code, ChatGPT, and OpenCode** for planning, prototyping, implementation, debugging, refactoring, and test generation. For larger tasks, I break work into focused pieces, validate the implementation, review results, run tests, and iterate on issues found. I use specialized MCP tools when they fit the task, and remain responsible for architecture, logic, security, and final review.
+
+## More About Me
+
+[Portfolio](https://fideljon.vercel.app) · [GitHub repositories](https://github.com/hustlincode?tab=repositories) · [Contact me](mailto:fideljonmagat25@gmail.com)
