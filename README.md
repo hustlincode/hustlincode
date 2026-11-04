@@ -13,12 +13,6 @@ I build and maintain web applications and business systems, working across front
 ### [Aether Dental Clinic](https://github.com/hustlincode/aether-dental-clinic)
 A full-stack clinic booking and management system built with Next.js, TypeScript, Prisma, and Supabase. Includes online appointment booking, role-based staff access, appointment management, and email notifications.
 
-### [Xenia Online Self Check-In](https://fideljon.vercel.app/project/xolf)
-A hotel pre-check-in system connecting an on-premises application with cloud services. Built with C#/.NET, PHP, AWS Lambda, API Gateway, and DynamoDB. Includes guest check-in workflows and reservation synchronization.
-
-### [Banquet & Sales Management System](https://fideljon.vercel.app/project/salesportal)
-A business application for banquet operations, contracts, sales reporting, and accounting workflows, built with PHP, MySQL, JavaScript, and Bootstrap.
-
 ## Technical Skills
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, jQuery, AJAX, Bootstrap, Tailwind CSS
